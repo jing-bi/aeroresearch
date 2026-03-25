@@ -23,9 +23,9 @@
   Instead of heavy academic workflows, it provides agents with a clean way to <strong>explore</strong>, <strong>inspect</strong>, and <strong>export</strong> research.
 </p>
 
-<video width="100%" controls muted playsinline>
-  <source src="https://cdn.jing.vision/aero-demo.mp4" type="video/mp4">
-</video>
+[![preview](./demo.png)](https://cdn.jing.vision/aero-demo.mp4)
+
+
 ## Account
 
 AeroResearch is currently in **alpha**; OAuth signup is handled through a signup URL.
