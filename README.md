@@ -33,7 +33,7 @@ AeroResearch is currently in **alpha**; OAuth signup is handled through a signup
 It uses the same account system as [research.jing.vision](https://research.jing.vision).
 
 - If you already have an account, use it to sign in.
-- If you don't have an account, DM me for the signup URL.
+- If you don't have an account, [**sign up here**](https://id.jing.vision/st/JP8H8Y9APhlawpKE), only takes about 5 seconds. Any trouble? DM me.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jing--bi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-bi)
 [![X](https://img.shields.io/badge/X-@jingbix-black?style=flat-square&logo=x&logoColor=white)](https://x.com/jingbix)
